@@ -1,2 +1,2 @@
 # DjangoForLightsail
-AWS Lightsail exercise with DRG
+AWS Lightsail exercise with DRF
